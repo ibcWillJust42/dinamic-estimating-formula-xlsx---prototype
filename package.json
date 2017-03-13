@@ -1,0 +1,12 @@
+{
+  "name": "dinamic-estimating-formula-xlsx---prototype",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ibcWillJust42/dinamic-estimating-formula-xlsx---prototype.git",
+  "author": "Dmitriy Salnikov <ibcWillJust42@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "exceljs": "^0.3.1",
+    "lodash": "^4.17.4"
+  }
+}
